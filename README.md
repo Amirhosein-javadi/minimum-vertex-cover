@@ -9,4 +9,4 @@ The vertex cover with the smallest possible size is called the minimum vertex co
 
 Minimum vertex cover is a famous NP-Hard optimization problem. It means that we currently don't have any polynomial-time algorithm for this problem, and we will most likely never have such an algorithm unless P = NP. Therefore it is reasonable to use optimization algorithms like local search to find an approximate but not necessarily perfect answer.
 
-In this question and the next one, you should implement two different local search techniques to solve this problem: Simulated Annealing for this question and the Genetic Algorithm for the next one.
+In this question and the next one, you should implement a local search techniques to solve this problem: Simulated Annealing.
